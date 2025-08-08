@@ -45,7 +45,7 @@
 ### 📬 Contato
 
 - 🧪 [Lattes](http://lattes.cnpq.br/5817651927960402)
-- 📫 Email: <reyneralegria18>@gmail.com
+- 📫 Email: reyneralegria18@gmail.com | reyner.alegria@ufam.edu.br
 
 ---
 
