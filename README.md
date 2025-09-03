@@ -29,7 +29,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyneralegria13&layout=compact&langs_count=10&theme=tokyonight)
 
-![Reyner's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyneralegria13&show_icons=true&theme=tokyonight)
 
 ---
 
