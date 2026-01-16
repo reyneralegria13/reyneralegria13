@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Engenharia%20de%20Software-UFAM-blue?style=for-the-badge&logo=github" alt="Curso" />
-  <img src="https://img.shields.io/badge/Período-6º-ff69b4?style=for-the-badge" alt="Período" />
+  <img src="https://img.shields.io/badge/Período-7º-ff69b4?style=for-the-badge" alt="Período" />
 </p>
 
 <p align="center">
